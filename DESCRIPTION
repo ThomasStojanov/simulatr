@@ -1,7 +1,7 @@
 Package: simulatr
 Type: Package
 Title: Generator for Reproducible Fake Data 
-Version: 0.1.0.9001
+Version: 0.1.0.9002
 Date: 2023-02-10
 Authors@R: c(
     person("Friedrich", "Pahlke", , "friedrich.pahlke@rpact.com", role = c("aut", "cre")),
