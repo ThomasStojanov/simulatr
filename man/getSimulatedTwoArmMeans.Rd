@@ -9,6 +9,18 @@ getSimulatedTwoArmMeans(n1, n2, mean1, mean2, sd1, sd2, seed = NA_integer_)
 \arguments{
 \item{n1}{a single integer value. The sample size of group 1.
 TODO document all arguments}
+
+\item{n2}{a single integer value. The sample size of group 2.}
+
+\item{mean1}{a numeric value. The mean of group 1.}
+
+\item{mean2}{a numeric value. The mean of group 2.}
+
+\item{sd1}{a numeric value. The standard deviation of group 1.}
+
+\item{sd2}{a numeric value. The standard deviation of group 2.}
+
+\item{seed}{a single integer value. The seed for reproducibility.}
 }
 \value{
 a list with all arguments and results; the output is defined as a
