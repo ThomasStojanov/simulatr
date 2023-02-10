@@ -4,6 +4,8 @@
 This repository contains the model solution of *simulatr*,
 an example package for learning about software development best-practices for R packages.
 
+This readme is modified.
+
 ## Get the repository for yourself
 
 To get your very own version of this repository as if you had created it yourself,
