@@ -38,6 +38,8 @@ getSimulatedTwoArmMeans <- function(
         set.seed(seed)
     }
 
+    # This is a useless comment.
+
     # TODO create normal distributed random data for the two groups
 
     # TODO save the fake data to a data frame in long format
